@@ -5,6 +5,7 @@ Pytorch 사용법을 익히기 위해 Lenet5 모델을 활용하여 Fashion MNIS
 
 
 ## Writting
+#### [Pytorch로 Fashion MNIST 구현하기](https://moding.tistory.com/entry/Pytorch%EB%A1%9C-Fashion-MNIST-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
 #### [학습에 사용한 패키지들](https://moding.tistory.com/entry/Torchvision-%ED%8C%A8%ED%82%A4%EC%A7%80?category=888126)
 #### [Learning Rate, Training Epoch, Batch Size의 의미](https://moding.tistory.com/entry/Learning-Rate-Training-Epoch-Batch-Size%EC%9D%98-%EC%9D%98%EB%AF%B8)
 
