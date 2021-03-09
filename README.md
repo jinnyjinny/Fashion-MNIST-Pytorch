@@ -1,7 +1,7 @@
 # Fashion MNIST Pytorch
 
 ## 소개
-Pytorch 사용법을 익히기 위해 Lenet5 모델을 활용하여 Fashion MNIST 예제를 실습합니다.
+Pytorch 사용법을 익히기 위해 Lenet5 모델을 활용하여 Fashion MNIST 예제를 실습합니다. 
 
 
 ## Writting
@@ -23,7 +23,7 @@ Pytorch 사용법을 익히기 위해 Lenet5 모델을 활용하여 Fashion MNIS
     <td>0.89</td>
   </tr>
 </table>
-<br/>
+
 
 ## 참고 
-해당 [링크](https://github.com/Yeonwoo-Kim/Torchvision)를 참고했습니다.
+해당[링크](https://github.com/Yeonwoo-Kim/Torchvision)를 참고하여 실습을 진행하였습니다! 😊
