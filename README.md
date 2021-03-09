@@ -1,4 +1,4 @@
-## Fashion MNIST Pytorch
+# Fashion MNIST Pytorch
 
 ## 소개
 Pytorch 사용법을 익히기 위해 Lenet5 모델을 활용하여 Fashion MNIST 예제를 실습해보았습니다.
