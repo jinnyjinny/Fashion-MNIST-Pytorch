@@ -10,7 +10,7 @@ Pytorch 사용법을 익히기 위해 Lenet5 모델을 활용하여 Fashion MNIS
 
 
 ## 결과
-* [Fashion-MNIST](https://github.com/Yeonwoo-Kim/Pytorch/tree/master/Fashion-MNIST)
+* Fashion-MNIST
 
 <img src="https://user-images.githubusercontent.com/50096655/86315783-0b455280-bc66-11ea-85c6-303ab6077b9c.png" width="100%" height="250"></img>
 
@@ -26,4 +26,4 @@ Pytorch 사용법을 익히기 위해 Lenet5 모델을 활용하여 Fashion MNIS
 
 
 ## 참고 
-해당[링크](https://github.com/Yeonwoo-Kim/Torchvision)를 참고하여 실습을 진행하였습니다! 😊
+해당[링크](https://github.com/Yeonwoo-Kim/Torchvision)를 참고하여 실습을 진행하였습니다! 😊 
